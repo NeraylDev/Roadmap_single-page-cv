@@ -4,5 +4,5 @@
 
 <section>
     <h2>Result</h2>
-    <img href="./images/screenshot-result.png">
+    <img src="./images/screenshot-result.png">
 </section>
